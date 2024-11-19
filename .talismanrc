@@ -2,7 +2,7 @@ fileignoreconfig:
 - filename: config.yaml
   checksum: 226994ac47cb00ba1140fb9c3a449206d589f78bf3406798f7036140b0bb85aa
 - filename: novo.py
-  checksum: 5c49b81fc257aff26c37f5819cd4bb81093498ee9ade43295b403bf77d446162
+  checksum: 5c1eaf0a8d8fbd96e44fbd49df43a8a6b981c1cce8250a61453f0ab451b4ee1d
 - filename: teste.py
   checksum: 239d59666d182b6ff882f8ba30dd544f679bb8972b09e990bf4ffc1fd803f8f4
 version: "1.0"
