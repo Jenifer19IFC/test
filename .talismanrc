@@ -1,4 +1,6 @@
 fileignoreconfig:
 - filename: config.yaml
   checksum: 03060474f427c80fe02cdc97de94480ae153cbd8bc3830a1f73cfad599414532
+- filename: teste.py
+  checksum: 239d59666d182b6ff882f8ba30dd544f679bb8972b09e990bf4ffc1fd803f8f4
 version: "1.0"
