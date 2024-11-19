@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: config.yaml
+  checksum: 03060474f427c80fe02cdc97de94480ae153cbd8bc3830a1f73cfad599414532
+version: "1.0"
